@@ -15,8 +15,8 @@ class BlogPost
     String title;
     String content ;
     
-     public BlogPost()
-     {
+    public BlogPost()
+    {
 
     }
     
